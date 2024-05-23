@@ -1,0 +1,55 @@
+tconst,ordering,nconst,primaryTitle,startYear,genres,primaryName,birthYear,deathYear,primaryProfession,knownForTitles,age
+tt0033107,3.0,nm0848172,Stranger on the Third Floor,1940,"Crime,Drama,Film-Noir",Margaret Tallichet,1914,1991,"actress,archive_footage","tt0033107,tt0030052,tt0033766,tt0030184",26
+tt0033517,3.0,nm0057412,A Date with the Falcon,1942,"Crime,Drama,Film-Noir",Wendy Barrie,1912,1978,"actress,soundtrack,archive_footage","tt0033650,tt0031890,tt0033517,tt0033013",30
+tt0033650,2.0,nm0057412,The Gay Falcon,1941,"Crime,Film-Noir,Mystery",Wendy Barrie,1912,1978,"actress,soundtrack,archive_footage","tt0033650,tt0031890,tt0033517,tt0033013",29
+tt0034248,2.0,nm0000021,Suspicion,1941,"Film-Noir,Mystery,Thriller",Joan Fontaine,1917,2013,"actress,producer,soundtrack","tt0034248,tt0032976,tt0035751,tt0036969",24
+tt0034717,3.0,nm0709905,The Falcon's Brother,1942,"Crime,Drama,Film-Noir",Jane Randolph,1914,2009,"actress,miscellaneous,archive_footage","tt0034587,tt0040068,tt0034717,tt0035854",28
+tt0035854,2.0,nm0384948,The Falcon Strikes Back,1943,"Crime,Drama,Film-Noir",Harriet Nelson,1909,1994,"actress,soundtrack,archive_footage","tt0044230,tt0035854,tt0027630,tt0034572",34
+tt0035855,2.0,nm0112046,The Falcon and the Co-eds,1943,"Crime,Drama,Film-Noir",Jean Brooks,1915,1963,"actress,archive_footage","tt0036341,tt0035856,tt0035855,tt0036104",28
+tt0035856,3.0,nm0112046,The Falcon in Danger,1943,"Crime,Film-Noir,Mystery",Jean Brooks,1915,1963,"actress,archive_footage","tt0036341,tt0035856,tt0035855,tt0036104",28
+tt0035860,2.0,nm0000058,The Fallen Sparrow,1943,"Film-Noir,Mystery",Maureen O'Hara,1920,2015,"actress,soundtrack,archive_footage","tt0045061,tt0039628,tt0055277,tt0033729",23
+tt0036104,2.0,nm0546712,The Leopard Man,1943,"Film-Noir,Horror,Thriller",Margo,1917,1985,"actress,soundtrack,archive_footage","tt0029162,tt0151573,tt0035669,tt0031656",26
+tt0036807,1.0,nm0001443,Experiment Perilous,1944,"Film-Noir,Romance,Thriller",Hedy Lamarr,1914,2000,"actress,producer,miscellaneous","tt0041838,tt0038990,tt0037769,tt0035460",30
+tt0036809,2.0,nm0302347,The Falcon Out West,1944,"Crime,Drama,Film-Noir",Carole Gallagher,1923,1966,actress,"tt0036809,tt0040282",21
+tt0036810,2.0,nm0354853,The Falcon in Hollywood,1944,"Crime,Drama,Film-Noir",Barbara Hale,1922,2017,"actress,soundtrack,archive_footage","tt0050051,tt0065377,tt0073043,tt0042046",22
+tt0036811,2.0,nm0548056,The Falcon in Mexico,1944,"Crime,Film-Noir,Mystery",Mona Maris,1903,1991,"actress,soundtrack,archive_footage","tt0033517,tt0021215,tt0024466,tt0036811",41
+tt0037101,2.0,nm0872456,"Murder, My Sweet",1944,"Crime,Drama,Film-Noir",Claire Trevor,1910,2000,"actress,soundtrack,archive_footage","tt0040506,tt0031971,tt0037101,tt0028773",34
+tt0037130,2.0,nm0518879,A Night of Adventure,1944,"Crime,Film-Noir,Mystery",Audrey Long,1922,2014,actress,"tt0039211,tt0037970,tt0037130,tt0039313",22
+tt0037469,2.0,nm0000910,The Woman in the Window,1944,"Crime,Drama,Film-Noir",Joan Bennett,1910,1990,"actress,soundtrack,archive_footage","tt0076786,tt0038057,tt0037469,tt0024264",34
+tt0037559,3.0,nm0243454,The Brighton Strangler,1945,"Crime,Drama,Film-Noir",June Duprez,1918,1984,"actress,soundtrack,archive_footage","tt0037135,tt0037515,tt0031334,tt0033152",27
+tt0037615,3.0,nm0154989,Cornered,1945,"Drama,Film-Noir,Thriller",Micheline Cheirel,1917,2002,actress,"tt0038958,tt0179249,tt0026564,tt0039283",28
+tt0037690,2.0,nm0179411,The Falcon in San Francisco,1945,"Crime,Film-Noir,Mystery",Paula Corday,1920,1992,"actress,archive_footage","tt0039360,tt0037690,tt0038478,tt0045345",25
+tt0037832,2.0,nm0872456,Johnny Angel,1945,"Crime,Drama,Film-Noir",Claire Trevor,1910,2000,"actress,soundtrack,archive_footage","tt0040506,tt0031971,tt0037101,tt0028773",35
+tt0038199,2.0,nm0751946,Two O'Clock Courage,1945,"Crime,Drama,Film-Noir",Ann Rutherford,1917,2012,"actress,soundtrack,archive_footage","tt0031381,tt0031517,tt0034389,tt0035552",28
+tt0038429,2.0,nm0872456,Crack-Up,1946,"Crime,Drama,Film-Noir",Claire Trevor,1910,2000,"actress,soundtrack,archive_footage","tt0040506,tt0031971,tt0037101,tt0028773",36
+tt0038458,1.0,nm0001333,Deadline at Dawn,1946,"Crime,Film-Noir,Mystery",Susan Hayward,1917,1975,"actress,soundtrack,archive_footage","tt0045333,tt0051758,tt0048191,tt0041672",29
+tt0038518,2.0,nm0557555,The Falcon's Adventure,1946,"Film-Noir,Mystery",Madge Meredith,1921,2017,"actress,archive_footage","tt0038518,tt0043169,tt0051311,tt0038411",25
+tt0038700,1.0,nm0206478,The Locket,1946,"Crime,Drama,Film-Noir",Laraine Day,1920,2007,"actress,soundtrack,archive_footage","tt0032484,tt0038700,tt0038164,tt0042049",26
+tt0038782,2.0,nm0054609,Nocturne,1946,"Crime,Drama,Film-Noir",Lynn Bari,1919,1989,"actress,soundtrack,archive_footage","tt0036672,tt0034716,tt0029899,tt0038782",27
+tt0038787,2.0,nm0000006,Notorious,1946,"Drama,Film-Noir,Romance",Ingrid Bergman,1915,1982,"actress,producer,soundtrack","tt0034583,tt0036855,tt0038109,tt0038787",31
+tt0038982,2.0,nm0420331,Step by Step,1946,"Crime,Drama,Film-Noir",Anne Jeffreys,1923,2017,"actress,soundtrack,archive_footage","tt0039772,tt0037642,tt0037644,tt0038478",23
+tt0038991,3.0,nm0949835,The Stranger,1946,"Crime,Drama,Film-Noir",Loretta Young,1913,2000,"actress,producer,soundtrack","tt0038991,tt0039370,tt0024334,tt0032397",33
+tt0039050,1.0,nm0335748,The Truth About Murder,1946,"Comedy,Film-Noir,Mystery",Bonita Granville,1923,1988,"producer,actress,director","tt0035140,tt0030442,tt0030491,tt0028356",23
+tt0039211,1.0,nm0872456,Born to Kill,1947,"Crime,Drama,Film-Noir",Claire Trevor,1910,2000,"actress,soundtrack,archive_footage","tt0040506,tt0031971,tt0037101,tt0028773",37
+tt0039286,4.0,nm0002108,Crossfire,1947,"Crime,Drama,Film-Noir",Gloria Grahame,1923,1981,"actress,soundtrack,archive_footage","tt0042593,tt0045555,tt0038650,tt0044391",24
+tt0039313,2.0,nm0518879,Desperate,1947,"Crime,Film-Noir,Thriller",Audrey Long,1922,2014,actress,"tt0039211,tt0037970,tt0037130,tt0039313",25
+tt0039317,3.0,nm0504160,The Devil Thumbs a Ride,1947,"Crime,Drama,Film-Noir",Nan Leslie,1926,2000,"actress,stunts,soundtrack","tt0047748,tt0038996,tt0040956,tt0053742",21
+tt0039581,2.0,nm0000895,The Long Night,1947,"Drama,Film-Noir",Barbara Bel Geddes,1922,2005,"actress,soundtrack,archive_footage","tt0052357,tt0077000,tt0042832,tt0040221",25
+tt0039689,2.0,nm0339452,Out of the Past,1947,"Crime,Drama,Film-Noir",Jane Greer,1924,2001,"actress,soundtrack,archive_footage","tt0039689,tt0041178,tt0045053,tt0040835",23
+tt0039896,2.0,nm0001333,They Won't Believe Me,1947,"Drama,Film-Noir,Romance",Susan Hayward,1917,1975,"actress,soundtrack,archive_footage","tt0045333,tt0051758,tt0048191,tt0041672",30
+tt0040000,1.0,nm0000910,The Woman on the Beach,1947,"Crime,Drama,Film-Noir",Joan Bennett,1910,1990,"actress,soundtrack,archive_footage","tt0076786,tt0038057,tt0037469,tt0024264",37
+tt0040155,1.0,nm0643353,Berlin Express,1948,"Crime,Drama,Film-Noir",Merle Oberon,1911,1979,"actress,writer,producer","tt0032145,tt0037024,tt0034274,tt0025748",37
+tt0040178,2.0,nm0485509,Bodyguard,1948,"Crime,Drama,Film-Noir",Priscilla Lane,1915,1995,"actress,soundtrack,archive_footage","tt0036613,tt0035279,tt0033409,tt0031867",33
+tt0040719,3.0,nm0561765,Race Street,1948,"Crime,Drama,Film-Noir",Marilyn Maxwell,1920,1972,"actress,soundtrack,archive_footage","tt0037373,tt0052141,tt0041239,tt0046138",28
+tt0040872,1.0,nm0640732,They Live by Night,1948,"Crime,Film-Noir,Romance",Cathy O'Donnell,1923,1970,"actress,soundtrack,archive_footage","tt0036868,tt0052618,tt0040872,tt0039230",25
+tt0040934,1.0,nm0751426,The Velvet Touch,1948,"Crime,Drama,Film-Noir",Rosalind Russell,1907,1976,"actress,writer,soundtrack","tt0051383,tt0032599,tt0056048,tt0032143",41
+tt0041178,2.0,nm0339452,The Big Steal,1949,"Crime,Film-Noir,Romance",Jane Greer,1924,2001,"actress,soundtrack,archive_footage","tt0039689,tt0041178,tt0045053,tt0040835",25
+tt0041252,2.0,nm0354853,The Clay Pigeon,1949,"Crime,Drama,Film-Noir",Barbara Hale,1922,2017,"actress,soundtrack,archive_footage","tt0050051,tt0065377,tt0073043,tt0042046",27
+tt0041278,2.0,nm0707048,A Dangerous Profession,1949,"Crime,Drama,Film-Noir",Ella Raines,1920,1988,"actress,soundtrack,archive_footage","tt0036260,tt0041503,tt0036891,tt0037330",29
+tt0041378,2.0,nm0665842,Follow Me Quietly,1949,"Crime,Drama,Film-Noir",Dorothy Patrick,1921,1987,"actress,soundtrack,archive_footage","tt0041257,tt0043024,tt0042392,tt0041378",28
+tt0041495,2.0,nm0206478,The Woman on Pier 13,1949,"Crime,Drama,Film-Noir",Laraine Day,1920,2007,"actress,soundtrack,archive_footage","tt0032484,tt0038700,tt0038164,tt0042049",29
+tt0041859,2.0,nm0869429,The Set-Up,1949,"Crime,Film-Noir,Sport",Audrey Totter,1917,2013,"actress,soundtrack,archive_footage","tt0039941,tt0039545,tt0038854,tt0041954",32
+tt0041926,1.0,nm0779549,Strange Bargain,1949,"Crime,Drama,Film-Noir",Martha Scott,1912,2003,"actress,producer,archive_footage","tt0049833,tt0052618,tt0032881,tt0033459",37
+tt0041963,2.0,nm0340706,The Threat,1949,"Crime,Drama,Film-Noir",Virginia Grey,1917,2004,"actress,soundtrack,archive_footage","tt0065377,tt0040920,tt0032143,tt0031047",32
+tt0042046,2.0,nm0354853,The Window,1949,"Drama,Film-Noir,Thriller",Barbara Hale,1922,2017,"actress,soundtrack,archive_footage","tt0050051,tt0065377,tt0073043,tt0042046",27
+tt0042053,1.0,nm0000058,A Woman's Secret,1949,"Drama,Film-Noir,Mystery",Maureen O'Hara,1920,2015,"actress,soundtrack,archive_footage","tt0045061,tt0039628,tt0055277,tt0033729",29
